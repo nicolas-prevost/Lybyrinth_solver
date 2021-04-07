@@ -1,0 +1,13 @@
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.exe
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.deps.json
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.runtimeconfig.json
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.runtimeconfig.dev.json
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.dll
+D:\RiderProjects\labyrinth\labyrinth\bin\Debug\netcoreapp3.1\labyrinth.pdb
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.csprojAssemblyReference.cache
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.AssemblyInfoInputs.cache
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.AssemblyInfo.cs
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.csproj.CoreCompileInputs.cache
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.dll
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.pdb
+D:\RiderProjects\labyrinth\labyrinth\obj\Debug\netcoreapp3.1\labyrinth.genruntimeconfig.cache
